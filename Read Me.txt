@@ -1,0 +1,4 @@
+1. Unzip the folder
+2. Open the simulator file in the folder
+3. Set the parameter for simulation based on the required settings
+4. Run the simulator file to obtain the results
